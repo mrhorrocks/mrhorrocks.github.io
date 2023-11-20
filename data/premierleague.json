@@ -1,7 +1,7 @@
 [
   {
     "position": 1,
-    "badgeUrl": "manchester-city",
+    "badgeUrl": "https://mrhorrocks.github.io/img/manchester-city.svg",
     "teamname": "Manchester City",
     "played": 11,
     "won": 9,
@@ -14,7 +14,7 @@
   },
   {
     "position": 2,
-    "badgeUrl": "tottenham-hotspur",
+    "badgeUrl": "https://mrhorrocks.github.io/img/tottenham-hotspur.svg",
     "teamname": "Tottenham Hotspur",
     "played": 11,
     "won": 8,
@@ -27,7 +27,7 @@
   },
   {
     "position": 3,
-    "badgeUrl": "liverpool",
+    "badgeUrl": "https://mrhorrocks.github.io/img/liverpool.svg",
     "teamname": "Liverpool",
     "played": 11,
     "won": 7,
@@ -40,7 +40,7 @@
   },
   {
     "position": 4,
-    "badgeUrl": "arsenal",
+    "badgeUrl": "https://mrhorrocks.github.io/img/arsenal.svg",
     "teamname": "Arsenal",
     "played": 11,
     "won": 7,
@@ -53,7 +53,7 @@
   },
   {
     "position": 5,
-    "badgeUrl": "aston-villa",
+    "badgeUrl": "https://mrhorrocks.github.io/img/aston-villa.svg",
     "teamname": "Aston Villa",
     "played": 11,
     "won": 7,
@@ -66,7 +66,7 @@
   },
   {
     "position": 6,
-    "badgeUrl": "newcastle-united",
+    "badgeUrl": "https://mrhorrocks.github.io/img/newcastle-united.svg",
     "teamname": "Newcastle United",
     "played": 11,
     "won": 6,
@@ -79,7 +79,7 @@
   },
   {
     "position": 7,
-    "badgeUrl": "brighton-and-hove-albion",
+    "badgeUrl": "https://mrhorrocks.github.io/img/brighton-and-hove-albion.svg",
     "teamname": "Brighton and Hove Albion",
     "played": 11,
     "won": 5,
@@ -92,7 +92,7 @@
   },
   {
     "position": 8,
-    "badgeUrl": "manchester-united",
+    "badgeUrl": "https://mrhorrocks.github.io/img/manchester-united.svg",
     "teamname": "Manchester United",
     "played": 11,
     "won": 6,
@@ -105,7 +105,7 @@
   },
   {
     "position": 9,
-    "badgeUrl": "brentford",
+    "badgeUrl": "https://mrhorrocks.github.io/img/brentford.svg",
     "teamname": "Brentford",
     "played": 11,
     "won": 4,
@@ -118,7 +118,7 @@
   },
   {
     "position": 10,
-    "badgeUrl": "chelsea",
+    "badgeUrl": "https://mrhorrocks.github.io/img/chelsea.svg",
     "teamname": "Chelsea",
     "played": 11,
     "won": 4,
@@ -131,7 +131,7 @@
   },
   {
     "position": 11,
-    "badgeUrl": "crystal-palace",
+    "badgeUrl": "https://mrhorrocks.github.io/img/crystal-palace.svg",
     "teamname": "Crystal Palace",
     "played": 11,
     "won": 4,
@@ -144,7 +144,7 @@
   },
   {
     "position": 12,
-    "badgeUrl": "west-ham-united",
+    "badgeUrl": "https://mrhorrocks.github.io/img/west-ham-united.svg",
     "teamname": "West Ham United",
     "played": 11,
     "won": 4,
@@ -157,7 +157,7 @@
   },
   {
     "position": 13,
-    "badgeUrl": "nottingham-forest",
+    "badgeUrl": "https://mrhorrocks.github.io/img/nottingham-forest.svg",
     "teamname": "Nottingham Forest",
     "played": 11,
     "won": 3,
@@ -170,7 +170,7 @@
   },
   {
     "position": 14,
-    "badgeUrl": "wolverhampton-wanderers",
+    "badgeUrl": "https://mrhorrocks.github.io/img/wolverhampton-wanderers.svg",
     "teamname": "Wolverhampton Wanderers",
     "played": 11,
     "won": 3,
@@ -183,7 +183,7 @@
   },
   {
     "position": 15,
-    "badgeUrl": "fulham",
+    "badgeUrl": "https://mrhorrocks.github.io/img/fulham.svg",
     "teamname": "Fulham",
     "played": 11,
     "won": 3,
@@ -196,7 +196,7 @@
   },
   {
     "position": 16,
-    "badgeUrl": "everton",
+    "badgeUrl": "https://mrhorrocks.github.io/img/everton.svg",
     "teamname": "Everton",
     "played": 1,
     "won": 3,
@@ -209,7 +209,7 @@
   },
   {
     "position": 17,
-    "badgeUrl": "luton-town",
+    "badgeUrl": "https://mrhorrocks.github.io/img/luton-town.svg",
     "teamname": "Luton Town",
     "played": 11,
     "won": 1,
@@ -222,7 +222,7 @@
   },
   {
     "position": 18,
-    "badgeUrl": "afc-bournemouth",
+    "badgeUrl": "https://mrhorrocks.github.io/img/afc-bournemouth.svg",
     "teamname": "Bournemouth",
     "played": 11,
     "won": 1,
@@ -235,7 +235,7 @@
   },
   {
     "position": 19,
-    "badgeUrl": "burnley",
+    "badgeUrl": "https://mrhorrocks.github.io/img/burnley.svg",
     "teamname": "Burnley",
     "played": 11,
     "won": 1,
@@ -248,7 +248,7 @@
   },
   {
     "position": 20,
-    "badgeUrl": "sheffield-united",
+    "badgeUrl": "https://mrhorrocks.github.io/img/sheffield-united.svg",
     "teamname": "Sheffield United",
     "played": 11,
     "won": 1,
