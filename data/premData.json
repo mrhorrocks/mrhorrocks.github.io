@@ -18,6 +18,23 @@
   },
   {
     "position": 2,
+    "teamname": "Aston Villa",
+    "PL": 18,
+    "HW": 8,
+    "HD": 1,
+    "HL": 0,
+    "HF": 26,
+    "HA": 6,
+    "AW": 4,
+    "AD": 2,
+    "AL": 3,
+    "AF": 12,
+    "AA": 16,
+    "GD": 16,
+    "PTS": 39
+  },
+  {
+    "position": 3,
     "teamname": "Liverpool",
     "PL": 17,
     "HW": 7,
@@ -31,23 +48,6 @@
     "AF": 15,
     "AA": 10,
     "GD": 21,
-    "PTS": 38
-  },
-  {
-    "position": 3,
-    "teamname": "Aston Villa",
-    "PL": 17,
-    "HW": 8,
-    "HD": 0,
-    "HL": 0,
-    "HF": 25,
-    "HA": 5,
-    "AW": 4,
-    "AD": 2,
-    "AL": 3,
-    "AF": 12,
-    "AA": 16,
-    "GD": 16,
     "PTS": 38
   },
   {
@@ -120,6 +120,23 @@
   },
   {
     "position": 8,
+    "teamname": "Brighton and Hove Albion",
+    "PL": 18,
+    "HW": 4,
+    "HD": 4,
+    "HL": 1,
+    "HF": 18,
+    "HA": 12,
+    "AW": 3,
+    "AD": 2,
+    "AL": 4,
+    "AF": 16,
+    "AA": 19,
+    "GD": 3,
+    "PTS": 27
+  },
+  {
+    "position": 9,
     "teamname": "West Ham United",
     "PL": 17,
     "HW": 4,
@@ -134,23 +151,6 @@
     "AA": 20,
     "GD": -1,
     "PTS": 27
-  },
-  {
-    "position": 9,
-    "teamname": "Brighton and Hove Albion",
-    "PL": 17,
-    "HW": 4,
-    "HD": 4,
-    "HL": 1,
-    "HF": 18,
-    "HA": 12,
-    "AW": 3,
-    "AD": 1,
-    "AL": 4,
-    "AF": 15,
-    "AA": 18,
-    "GD": 3,
-    "PTS": 26
   },
   {
     "position": 10,
@@ -240,19 +240,19 @@
   {
     "position": 15,
     "teamname": "Crystal Palace",
-    "PL": 17,
+    "PL": 18,
     "HW": 1,
-    "HD": 2,
+    "HD": 3,
     "HL": 5,
-    "HF": 7,
-    "HA": 12,
+    "HF": 8,
+    "HA": 13,
     "AW": 3,
     "AD": 3,
     "AL": 3,
     "AF": 10,
     "AA": 13,
     "GD": -8,
-    "PTS": 17
+    "PTS": 18
   },
   {
     "position": 16,
@@ -307,6 +307,23 @@
   },
   {
     "position": 19,
+    "teamname": "Sheffield United",
+    "PL": 18,
+    "HW": 2,
+    "HD": 1,
+    "HL": 6,
+    "HF": 8,
+    "HA": 21,
+    "AW": 0,
+    "AD": 2,
+    "AL": 7,
+    "AF": 5,
+    "AA": 23,
+    "GD": -31,
+    "PTS": 9
+  },
+  {
+    "position": 20,
     "teamname": "Burnley",
     "PL": 17,
     "HW": 1,
@@ -320,23 +337,6 @@
     "AF": 6,
     "AA": 14,
     "GD": -20,
-    "PTS": 8
-  },
-  {
-    "position": 20,
-    "teamname": "Sheffield United",
-    "PL": 17,
-    "HW": 2,
-    "HD": 1,
-    "HL": 6,
-    "HF": 8,
-    "HA": 21,
-    "AW": 0,
-    "AD": 1,
-    "AL": 7,
-    "AF": 4,
-    "AA": 22,
-    "GD": -31,
     "PTS": 8
   }
 ]
