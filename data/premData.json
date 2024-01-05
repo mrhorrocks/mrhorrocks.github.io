@@ -87,9 +87,9 @@
   {
     "position": 6,
     "teamname": "West Ham United",
-    "PL": 19,
+    "PL": 20,
     "HW": 5,
-    "HD": 2,
+    "HD": 3,
     "HL": 2,
     "HF": 17,
     "HA": 10,
@@ -99,10 +99,27 @@
     "AF": 16,
     "AA": 20,
     "GD": 3,
-    "PTS": 33
+    "PTS": 34
   },
   {
     "position": 7,
+    "teamname": "Brighton and Hove Albion",
+    "PL": 20,
+    "HW": 5,
+    "HD": 4,
+    "HL": 1,
+    "HF": 22,
+    "HA": 14,
+    "AW": 3,
+    "AD": 3,
+    "AL": 4,
+    "AF": 16,
+    "AA": 19,
+    "GD": 5,
+    "PTS": 31
+  },
+  {
+    "position": 8,
     "teamname": "Manchester United",
     "PL": 20,
     "HW": 6,
@@ -117,23 +134,6 @@
     "AA": 11,
     "GD": -5,
     "PTS": 31
-  },
-  {
-    "position": 8,
-    "teamname": "Brighton and Hove Albion",
-    "PL": 19,
-    "HW": 5,
-    "HD": 4,
-    "HL": 1,
-    "HF": 22,
-    "HA": 14,
-    "AW": 3,
-    "AD": 2,
-    "AL": 4,
-    "AF": 16,
-    "AA": 19,
-    "GD": 5,
-    "PTS": 30
   },
   {
     "position": 9,
