@@ -11,7 +11,7 @@
             "id": "2",
             "href": "/cars",
             "title": "CarDealer",
-            "description": "Built from a Figma design. Data from JSON.",
+            "description": "Built from a Figma design.<br/>Data from JSON.",
             "buttontext": "Visit the site"
         },
         {
