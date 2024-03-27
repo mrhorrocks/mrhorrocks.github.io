@@ -115,6 +115,10 @@
         {
             "name": "GIF to MP4",
             "url": "https://ezgif.com/gif-to-mp4"
+        },
+        {
+            "name": "Convert to Webp",
+            "url": "https://squoosh.app/"
         }
     ]
 }
