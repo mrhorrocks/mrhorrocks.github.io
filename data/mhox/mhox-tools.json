@@ -25,6 +25,10 @@
             "url": "https://www.adobe.com/uk/"
         },
         {
+            "name": "Chartjs",
+            "url": "https://www.chartjs.org/"
+        },
+        {
             "name": "Tailwind",
             "url": "https://tailwindcss.com/"
         },
@@ -71,10 +75,6 @@
             "url": "https://jqueryui.com/"
         },
         {
-            "name": "Chartjs",
-            "url": "https://www.chartjs.org/"
-        },
-        {
             "name": "SVN",
             "url": "https://subversion.apache.org/"
         },
@@ -105,7 +105,7 @@
             "url": "https://css2sass.herokuapp.com/"
         },
         {
-            "name": "CSS to JSON",
+            "name": "CSV to JSON",
             "url": "https://csvjson.com/csv2json"
         },
         {
