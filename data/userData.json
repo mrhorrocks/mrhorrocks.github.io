@@ -1,0 +1,32 @@
+{
+    "userlist": [
+        {
+            "name": "John Doe",
+            "age": 30,
+            "gender": "Male",
+            "country": "USA",
+            "occupation": "Engineer"
+        },
+        {
+            "name": "Jane Smith",
+            "age": 28,
+            "gender": "Female",
+            "country": "Canada",
+            "occupation": "Designer"
+        },
+        {
+            "name": "Michael Johnson",
+            "age": 35,
+            "gender": "Male",
+            "country": "UK",
+            "occupation": "Manager"
+        },
+        {
+            "name": "Emily Brown",
+            "age": 32,
+            "gender": "Female",
+            "country": "Australia",
+            "occupation": "Developer"
+        }
+    ]
+}
