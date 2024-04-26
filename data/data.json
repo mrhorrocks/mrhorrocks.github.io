@@ -5,23 +5,23 @@
     },
     {
         "label": "February",
-        "value": 10
+        "value": 20
     },
     {
         "label": "March",
-        "value": 10
+        "value": 30
     },
     {
         "label": "April",
-        "value": 10
+        "value": 40
     },
     {
         "label": "May",
-        "value": 10
+        "value": 30
     },
     {
         "label": "June",
-        "value": 10
+        "value": 20
     },
     {
         "label": "July",
@@ -29,7 +29,7 @@
     },
     {
         "label": "August",
-        "value": 10
+        "value": 5
     },
     {
         "label": "September",
