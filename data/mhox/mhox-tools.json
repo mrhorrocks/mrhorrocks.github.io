@@ -119,6 +119,10 @@
         {
             "name": "Image to WebP",
             "url": "https://squoosh.app/"
+        },
+        {
+            "name": "Accessible color",
+            "url": "https://venngage.com/tools/accessible-color-palette-generator"
         }
     ]
 }
